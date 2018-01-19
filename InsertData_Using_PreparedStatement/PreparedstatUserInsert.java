@@ -3,7 +3,7 @@ import java.sql.*;
 import java.io.*; 
 public class PreparedstatUserInsert {
 	
-	 
+	 // Oracle Driver. 
 	 
 	public static void main(String args[])throws Exception{  
 	Class.forName("oracle.jdbc.driver.OracleDriver");  
